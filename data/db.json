@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "A2",
+      "name": "Sonam sahu",
+      "photo": "https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png",
+      "mobile": "9875689220",
+      "email": "sonam123@gmail.com",
+      "company": "Newton School",
+      "designation": "Software Developer",
+      "groupId": "2"
+    },
+    {
+      "name": "Arjun",
+      "photo": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "mobile": "7854123690",
+      "email": "arjun@gmail.com",
+      "designation": "Front-End Developer",
+      "company": "Amazon",
+      "groupId": "4",
+      "id": "OUwXU-E"
+    },
+    {
+      "name": "Meera",
+      "photo": "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg",
+      "mobile": "9007854525",
+      "email": "meera@gamil.com",
+      "designation": "Data Analyst",
+      "company": "Uber ",
+      "groupId": "5",
+      "id": "UrCwPxi"
+    },
+    {
+      "name": "Madhuri",
+      "photo": "https://cdn.imgbin.com/10/20/11/imgbin-avatar-user-profile-icon-women-wear-frock-GNLBV4N6qanFpjEYMEqxEgcCd.jpg",
+      "mobile": "6996556516",
+      "email": "madhuri_das@gmail.com",
+      "designation": "HR",
+      "company": "walmart",
+      "groupId": "2",
+      "id": "DzxFnE3"
+    },
+    {
+      "name": "Anu ",
+      "photo": "https://static-cse.canva.com/blob/935087/1600w-EW4cggXkgbc.jpg",
+      "mobile": "8545782152",
+      "email": "anu@gmail.com",
+      "designation": "Developer",
+      "company": "Newton School",
+      "groupId": "4",
+      "id": "yv3EQgC"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
