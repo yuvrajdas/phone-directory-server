@@ -1,4 +1,4 @@
-const data = require("./data/db.json");
+const data = require("./db.js");
 
 const jsonServer = require("json-server");
 const server = jsonServer.create();
@@ -12,7 +12,4 @@ server.use(router);
 server.listen(port, () => {
     console.log('server is running on port' + port);
 });
-
-
-
 
