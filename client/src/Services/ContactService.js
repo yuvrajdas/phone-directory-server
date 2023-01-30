@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export class ContactService{
-    static serverUrl = `https://phone-directory-json-server.herokuapp.com`;
+    static serverUrl = `https://phone-dir.onrender.com`;
 
     static getAllContacts() {
         let dataUrl = `${this.serverUrl}/contacts`;
